@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Air Pollution Dataset - Eskişehir (2024–2025)"
+authors:
+  - family-names: "Erzurum Cicek"
+    given-names: "Zeynep Idil"
+    affiliation: "Eskişehir Technical University"
+  - family-names: "Ergul Aydin"
+    given-names: "Zeliha"
+    affiliation: "Eskişehir Technical University"
+date-released: 2025-09-26
+version: "1.0.0"
+doi: ""
+url: "https://github.com/<username>/<airpollution>"
+license: "CC-BY-4.0"
+type: dataset
+preferred-citation:
+  type: article
+  title: "Enhancing Air Quality Forecasting through Missing Data Imputation: A Stacking-Based Approach Applied to Urban Monitoring Data"
+  authors:
+    - family-names: "Erzurum Cicek"
+      given-names: "Zeynep Idil"
+    - family-names: "Ergul Aydin"
+      given-names: "Zeliha"
+  year: 2025
+  status: "submitted"
+  journal: ""
