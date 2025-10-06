@@ -5,9 +5,13 @@ The data was obtained from the Turkish Ministry of Environment, Urbanization and
 
 ## Dateset Information
 The features and their descriptions in the dataset are as follows:
+
 Date: The date of observation (YYYY-MM-DD HH:MM:SS). 
+
 PM 2.5 ( µg/m3 ): Particulate Matter 2.5 in µg/m3.  
+
 PM 10 ( µg/m3 ): Particulate Matter 10 in µg/m3. 
+
 The empty observations refer to missing data. 
 
 The characteristics of the datasets are given in Table. 
