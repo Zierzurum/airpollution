@@ -1,4 +1,4 @@
-<img width="85" height="16" alt="image" src="https://github.com/user-attachments/assets/f28d602d-0109-4675-b362-7da0a7f4fe86" /># airpollution
+## airpollution
 
 This repository provides hourly air pollution datasets collected from five monitoring stations in Eskişehir, Türkiye, between 2024 and 2025.  
 The data was obtained from the Turkish Ministry of Environment, Urbanization and Climate Change | National Air Quality Monitoring Network.
